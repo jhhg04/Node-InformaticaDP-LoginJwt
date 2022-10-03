@@ -1,0 +1,10 @@
+body{
+  background-color: #264365;
+  background-image: url('../img/back.jpg');
+  background-repeat:  no-repeat;
+  background-position: top;
+}
+
+h1{
+  color: aliceblue;
+}
